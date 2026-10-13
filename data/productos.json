@@ -1,0 +1,10 @@
+[
+  { "id": 1, "nombre": "Etiopía Yirgacheffe 250 g", "categoria": "Café en grano", "descripcion": "Notas florales y cítricas.", "precio": 12900, "stock": 15, "imagen": "assets/img/cafe.svg" },
+  { "id": 2, "nombre": "Colombia Huila 250 g", "categoria": "Café en grano", "descripcion": "Dulce, con notas de caramelo.", "precio": 11500, "stock": 20, "imagen": "assets/img/cafe.svg" },
+  { "id": 3, "nombre": "Blend de la Casa 250 g", "categoria": "Café en grano", "descripcion": "Equilibrado, ideal para todos los días.", "precio": 8900, "stock": 30, "imagen": "assets/img/cafe.svg" },
+  { "id": 4, "nombre": "Cápsulas Espresso Intenso x10", "categoria": "Cápsulas", "descripcion": "Cuerpo intenso y crema espesa.", "precio": 6500, "stock": 40, "imagen": "assets/img/capsulas.svg" },
+  { "id": 5, "nombre": "Cápsulas Descafeinado x10", "categoria": "Cápsulas", "descripcion": "Todo el sabor sin cafeína.", "precio": 6900, "stock": 4, "imagen": "assets/img/capsulas.svg" },
+  { "id": 6, "nombre": "Prensa Francesa 600 ml", "categoria": "Accesorios", "descripcion": "Vidrio borosilicato y filtro de acero.", "precio": 24500, "stock": 12, "imagen": "assets/img/accesorios.svg" },
+  { "id": 7, "nombre": "Taza de cerámica 250 ml", "categoria": "Accesorios", "descripcion": "Apta para lavavajillas y microondas.", "precio": 7800, "stock": 18, "imagen": "assets/img/accesorios.svg" },
+  { "id": 8, "nombre": "Té Verde Sencha 100 g", "categoria": "Infusiones", "descripcion": "Hojas enteras, sabor fresco y vegetal.", "precio": 6200, "stock": 22, "imagen": "assets/img/infusiones.svg" }
+]

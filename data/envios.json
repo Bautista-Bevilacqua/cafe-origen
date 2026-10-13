@@ -1,0 +1,5 @@
+[
+  { "id": "retiro", "nombre": "Retiro en local", "costo": 0, "requiereDireccion": false, "dias": 0 },
+  { "id": "estandar", "nombre": "Envío estándar", "costo": 2500, "requiereDireccion": true, "dias": 5 },
+  { "id": "express", "nombre": "Envío express", "costo": 4500, "requiereDireccion": true, "dias": 2 }
+]
